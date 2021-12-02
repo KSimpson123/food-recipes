@@ -12,6 +12,4 @@ Recipe Courtesy of Robert Irvine<br />
 * 1/4 cup sugar
 * salt and pepper
 
-In a large bowl, combine cabbage and carrots. In a smaller bowl, make
-dressing by combining mayonnaise, vinegar, celery seed, sugar, salt and
-pepper. Toss dressing into cabbage mixture and let chill.
+Purchase from KFC
