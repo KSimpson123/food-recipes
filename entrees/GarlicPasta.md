@@ -1,6 +1,6 @@
 Garlic Pasta
-============
 
+<img width="206" alt="Screen Shot 2021-12-07 at 8 51 11 PM" src="https://user-images.githubusercontent.com/93232997/145150452-364d2a89-587f-4c3c-b1ec-6435d5a0e005.png">
 * 1 package Barilla Pasta
 * 1/4 cup olive oil
 * 4 cloves garlic, minced
@@ -20,7 +20,4 @@ Heat olive oil in medium-sized pan or skillet over medium-low heat; cook and sti
 Add hot cooked pasta to skillet and mix with souce. Add the parsley, salt, and ground black pepper to taste.
 
 Serve with fresh-grated Parmesan cheese.
-<img width="206" alt="Screen Shot 2021-12-07 at 8 51 11 PM" src="https://user-images.githubusercontent.com/93232997/145150211-1edd54bd-f97a-4684-a2a3-98e8a235717c.png">
-
-
 [original recipe](https://www.allrecipes.com/recipe/12060/garlic-butter-sauce-ii/)
