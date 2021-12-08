@@ -1,7 +1,7 @@
 Garlic Pasta
 ============
 
-* 1 package fettucini
+* 1 package Pasta
 * 1/4 cup olive oil
 * 4 cloves garlic, minced
 * salt and pepper to taste
