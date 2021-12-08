@@ -1,12 +1,17 @@
 Garlic Pasta
 
 <img width="206" alt="Screen Shot 2021-12-07 at 8 51 11 PM" src="https://user-images.githubusercontent.com/93232997/145150452-364d2a89-587f-4c3c-b1ec-6435d5a0e005.png">
+
+
+
+
+
 * 1 package Barilla Pasta
 * 1/4 cup olive oil
 * 4 cloves garlic, minced
 * salt and pepper to taste
 * grated parmesan cheese to taste
-* Tomate Paste and 2 tomato
+* Tomate Paste and 2 tomatos
 * Ground Beef
 * Cacique (crema mexicana)
 
